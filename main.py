@@ -52,4 +52,9 @@ async def hello(interaction: discord.Interaction):
     """Says hello! [GitHub Repo Test]"""
     await interaction.response.send_message(f':wave: Hi, {interaction.user.mention}!')
 
+@client.tree.command()
+async def whatisthis(interaction: discord.Interaction):
+    """What on earth is this? [GitHub Repo Test]"""
+    await interaction.respond.send_message(f"So {interaction.user.mention}, you're curious about this project? Well, ")
+
 client.run(os.getenv('TOKEN'), log_handler=handler, log_level=logging.DEBUG)
