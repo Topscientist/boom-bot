@@ -16,7 +16,7 @@ load_dotenv(dotenv_path=dotenv_path)
 
 handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
 
-MY_GUILD = discord.Object(id=786182586501562378)
+MY_GUILD = discord.Object(id=832676807970783332)
 
 class MyClient(discord.Client):
     def __init__(self, *, intents: discord.Intents):
