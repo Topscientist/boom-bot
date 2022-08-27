@@ -19,7 +19,9 @@ You may submit a pull request on anything here but the .gitignore file. PR's for
 
 ## Docs
 The doumentation for the discord.py v2 library can be found here: https://discordpy.readthedocs.io
+
 Some examples of discord.py slash commands can be found here: https://github.com/Rapptz/discord.py/blob/v2.0.0/examples/app_commands/basic.py
+
 The official Wiki for this project can be found here: https://github.com/Topscientist/boom-bot/wiki
 
 ## Guidelines
