@@ -6,7 +6,7 @@ This bot is making use of the discord.py v2 library.
 
 This bot is running on GitHub codespaces and therefore may go down randomly. If it does go down it will be put back online soon by an admin.
 
-This bot was created on the 27/8/22 and the trial will run from the 28/8/22 to the 28/9/22.
+This bot was created on the 27/8/22 and the trial will run from the 30/8/22 to the 1/10/22.
 
 ## Pull Request Info
 _**Your code may take up to 24 hours to be officially in the bots running code.**_
