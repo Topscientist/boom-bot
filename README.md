@@ -9,13 +9,13 @@ This bot is running on GitHub codespaces and therefore may go down randomly. If 
 This bot was created on the 27/8/22 and the trial will run from the 28/8/22 to the 28/9/22.
 
 ## Pull Request Info
-__**Your code may take up to 24 hours to be officially in the bots running code.**__
+_**Your code may take up to 24 hours to be officially in the bots running code.**_
 
 A pull request reauires **1 approving review** to be submitted. This means someone else must review your added code and approve it to go live.
 
 You require to have a signed commit request, meaning your code must be signed by GitHub's verified signature (Basically all code will have this). More information can be found here: https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits
 
-You may submit a pull request on anything here but the .gitignore file. PR's for these will be deleted.
+You may submit a pull request on anything here but the .gitignore file. PR's for this file will be deleted.
 
 ## Docs
 The doumentation for the discord.py v2 library can be found here: https://discordpy.readthedocs.io
