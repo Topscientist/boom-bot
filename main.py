@@ -36,20 +36,6 @@ class MyClient(discord.Client):
     async def setup_hook(self):
         # This copies the global commands over to your guild.
         self.tree.copy_global_to(guild=MY_GUILD)
-        await self.tree.sync(guild=MY_GUILD)
-
-intents = discord.Intents.default()
-client = MyClient(intents=intents)
-
-@client.event
-async def on_ready():
-    print(f'Logged in as {client.user} (ID: {client.user.id})')
-    print ('-----------')
-    await client.change_presence(activity=discord.Game(name="with the code from https://github.com/Topscientist/discord-slash-commands"))
-
-@client.tree.command()
-async def hello(interaction: discord.Interaction):
-    """Says hello! [GitHub Repo Test]"""
-    await interaction.response.send_message(f':wave: Hi, {interaction.user.mention}!')
+        await self.tree.sync(guild=MY_GUILD
 
 client.run(os.getenv('TOKEN'), log_handler=handler, log_level=logging.DEBUG)
