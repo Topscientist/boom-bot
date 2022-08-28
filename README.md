@@ -15,8 +15,6 @@ _**Your code may take up to 24 hours to be officially in the bots running code.*
 
 A pull request requires **1 approving review** to be submitted (This may be changed over time). This means someone else must review your added code and approve it to go live.
 
-You require to have a signed commit request, meaning your code must be signed by GitHub's verified signature (Basically all code will have this). More information can be found here: https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits
-
 You may submit a pull request on anything here but the .gitignore file. PR's for this file will be deleted.
 
 ## Docs
