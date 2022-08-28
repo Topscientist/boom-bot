@@ -1,7 +1,7 @@
 # Boom Bot
 A test to see what happens if the open-source community is allowed to run rampant with a discord bot and it's code.
 
-### Inviting the bot to your own server.
+## Inviting the bot to your own discord server.
 Courtesy of Drac, I have been made aware that you can generate a bot invite or add code to generate a bot invite link on your own.
 
 **I do not endorse or recommend you adding this bot to your own discord server. It will pose a safety and security risk to your server.**
