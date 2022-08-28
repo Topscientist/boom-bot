@@ -43,6 +43,7 @@ client = MyClient(intents=intents)
 
 @client.event
 async def on_ready():
+    print ('The bot is about to go boom!')
     print(f'Logged in as {client.user} (ID: {client.user.id})')
     print ('-----------')
     await client.change_presence(activity=discord.Game(name="with the code from https://github.com/Topscientist/discord-slash-commands"))
