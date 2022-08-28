@@ -1,15 +1,6 @@
 # Boom Bot
 A test to see what happens if the open-source community is allowed to run rampant with a discord bot and it's code.
 
-## Inviting the bot to your own discord server.
-Courtesy of Drac, I have been made aware that you can generate a bot invite or add code to generate a bot invite link on your own.
-
-**I do not endorse or recommend you adding this bot to your own discord server. It will pose a safety and security risk to your server.**
-
-_**If you choose to add this bot to your own discord server, it is at your own risk and no-one including Topscientist/Artymartin3459#9245 can be held responsible for what happens to your discord server after adding it (Boom Bot) to your discord server.**_
-
-**If you want to see the bot in action please join the Arty Studios discord server.**
-
 ## Bot Info
 This bot is making use of the discord.py v2 library.
 
@@ -49,6 +40,15 @@ The original basis for this repo was copied from https://github.com/Rapptz/disco
 All code subitted here (Except of that copied from the repo listed above) is liscenced under the **GNU Affero General Public License v3.0** the details of which can be found here: https://github.com/Topscientist/boom-bot/blob/main/LICENSE.
 
 The Bot's PFP is under the "Public Domain Liscence".
+
+## Inviting the bot to your own discord server.
+As of the writing of this. The bot is set to be a private bot, so theoretically only I can add it to discord servers. If there is a way to bypass this please consider reading the notice below:
+
+**I do not endorse or recommend you adding this bot to your own discord server. It will pose a safety and security risk to your server.**
+
+_**If you choose to add this bot to your own discord server, it is at your own risk and no-one including Topscientist/Artymartin3459#9245 can be held responsible for what happens to your discord server after adding it (Boom Bot) to your discord server.**_
+
+**If you want to see the bot in action please join the Arty Studios discord server.**
 
 ## Thank You
 Thank you for choosing to participate in this wild and crazy project. It is just a random idea to see how this bot will fair over the course of this one chosen month. I would like to thank the admins that have agreed to help out running this project.
