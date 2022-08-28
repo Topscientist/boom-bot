@@ -13,7 +13,7 @@ Want to see the bot in action? Join the Arty Studios discord server: https://dis
 ## Pull Request Info
 _**Your code may take up to 24 hours to be officially in the bots running code.**_
 
-A pull request requires **2 approving reviews** to be submitted. This means someone else must review your added code and approve it to go live.
+A pull request requires **1 approving review** to be submitted (This may be changed over time). This means someone else must review your added code and approve it to go live.
 
 You require to have a signed commit request, meaning your code must be signed by GitHub's verified signature (Basically all code will have this). More information can be found here: https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits
 
