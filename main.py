@@ -37,8 +37,8 @@ class MyClient(discord.Client):
         # This copies the global commands over to your guild.
         self.tree.copy_global_to(guild=MY_GUILD)
         await self.tree.sync(guild=MY_GUILD)
-        self.tree.copy_global_to(guild=786182586501562378)
-        await self.tree.sync(guild=786182586501562378)
+        self.tree.copy_global_to(guild=discord.Object(id=786182586501562378))
+        await self.tree.sync(guild=discord.Object(id=786182586501562378))
 
 intents = discord.Intents.default()
 client = MyClient(intents=intents)
