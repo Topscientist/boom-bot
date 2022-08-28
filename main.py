@@ -37,6 +37,8 @@ class MyClient(discord.Client):
         # This copies the global commands over to your guild.
         self.tree.copy_global_to(guild=MY_GUILD)
         await self.tree.sync(guild=MY_GUILD)
+        self.tree.copy_global_to(guild=786182586501562378)
+        await self.tree.sync(guild=786182586501562378)
 
 intents = discord.Intents.default()
 client = MyClient(intents=intents)
@@ -57,5 +59,15 @@ async def hello(interaction: discord.Interaction):
 async def whatisthis(interaction: discord.Interaction):
     """What on earth is this?"""
     await interaction.respond.send_message(f"So {interaction.user.mention}, you're curious about this project? Well, this is a test to see what happens when the open-source community is allowed to run rampant with bot code :>. You can edit my code over here: https://github.com/Topscientist/boom-bot")
+
+@client.tree.command()
+@app_commands.describe(member='The member you want to get the joined date from; defaults to the user who uses the command')
+async def joined(interaction: discord.Interaction, member: Optional[discord.Member] = None):
+    """Get the date when a user joined."""
+    # If no member is explicitly provided then we use the command user here
+    member = member or interaction.user
+
+    # The format_dt function formats the date time into a human readable representation in the official client
+    await interaction.respond.send_message(f'{member} joined {discord.utils.format_dt(member.joined_at)}')
 
 client.run(os.getenv('TOKEN'), log_handler=handler, log_level=logging.DEBUG)
