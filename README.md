@@ -4,8 +4,6 @@ A test to see what happens if the open-source community is allowed to run rampan
 ## Bot Info
 This bot is making use of the discord.py v2 library.
 
-This bot is running on GitHub codespaces and therefore may go down randomly. If it does go down it will be put back online soon by an admin.
-
 This bot was created on the 27/8/22 and the trial will run from the 30/8/22 to the 1/10/22.
 
 Want to see the bot in action? Join the Arty Studios discord server: https://discord.gg/5y9tDDBkBW
