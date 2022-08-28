@@ -34,6 +34,7 @@ The official Wiki for this project can be found here: https://github.com/Topscie
 
 ## Credits
 The original basis for this repo was copied from https://github.com/Rapptz/discord.py/blob/v2.0.0/examples/app_commands/basic.py so credit to those guys.
+
 All code subitted here (Except of that copied from the repo listed above) is liscenced under the **GNU Affero General Public License v3.0** the details of which can be found here: https://github.com/Topscientist/boom-bot/blob/main/LICENSE.
 
 The Bot's PFP is under the "Public Domain Liscence".
