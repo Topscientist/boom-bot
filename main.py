@@ -10,6 +10,8 @@ from discord import app_commands
 from dotenv import load_dotenv
 from pathlib import Path
 
+from webserver import run
+
 dotenv_path = Path('/workspaces/discord-slash-commands/TOKEN.env')
 
 load_dotenv(dotenv_path=dotenv_path)
@@ -70,4 +72,5 @@ async def joined(interaction: discord.Interaction, member: Optional[discord.Memb
     # The format_dt function formats the date time into a human readable representation in the official client
     await interaction.response.send_message(f'{member} joined {discord.utils.format_dt(member.joined_at)}')
 
+run()
 client.run(os.getenv('TOKEN'), log_handler=handler, log_level=logging.DEBUG)
