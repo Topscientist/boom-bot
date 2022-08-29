@@ -10,8 +10,6 @@ from discord import app_commands
 from dotenv import load_dotenv
 from pathlib import Path
 
-from webserver import run
-
 dotenv_path = Path('/workspaces/discord-slash-commands/TOKEN.env')
 
 load_dotenv(dotenv_path=dotenv_path)
