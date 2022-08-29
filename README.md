@@ -1,6 +1,8 @@
 # Boom Bot
 A test to see what happens if the open-source community is allowed to run rampant with a discord bot and it's code.
 
+This will probably blow up (Go up in smoke) which is why it's called Boom Bot 
+
 ## Bot Info
 This bot is making use of the discord.py v2 library.
 
