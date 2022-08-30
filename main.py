@@ -1,12 +1,17 @@
+# Required for env imports
 import os
 
+# Slash command inputs
 from typing import Optional
 
+# Server-side debug logging, prevents the clogging of the console
 import logging
 
+# Discord imports
 import discord
 from discord import app_commands
 
+# Importing libraries required to impprt env's
 from dotenv import load_dotenv
 from pathlib import Path
 
