@@ -11,7 +11,7 @@ import logging
 import discord
 from discord import app_commands
 
-# Importing libraries required to impprt env's
+# Importing libraries required to import env's
 from dotenv import load_dotenv
 from pathlib import Path
 
@@ -61,8 +61,8 @@ async def hello(interaction: discord.Interaction):
     await interaction.response.send_message(f':wave: Hi, {interaction.user.mention}!')
 
 @client.tree.command()
-async def whatisthis(interaction: discord.Interaction):
-    """What on earth is this?"""
+async def info(interaction: discord.Interaction):
+    """Bot information"""
     await interaction.respond.send_message(f"So {interaction.user.mention}, you're curious about this project? Well, this is a test to see what happens when the open-source community is allowed to run rampant with bot code :>. You can edit my code over here: https://github.com/Topscientist/boom-bot")
 
 @client.tree.command()
