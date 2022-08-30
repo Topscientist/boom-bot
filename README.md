@@ -40,7 +40,7 @@ All code subitted here (Except of that copied from the repo listed above) is lis
 The Bot's PFP is under the "Public Domain Liscence".
 
 ## Inviting the bot to your own discord server.
-As of the writing of this. The bot is set to be a private bot, so theoretically only I can add it to discord servers. If there is a way to bypass this please consider reading the notice below:
+Courtesy of Drac in the Arty Studios Discord Server, I have been informed that there is a way to add discord bots to your own server. I am preparing a way to make this possible but if you ever plan on adding this bot to your own server please consider the following:
 
 **I do not endorse or recommend you adding this bot to your own discord server. It will pose a safety and security risk to your server.**
 
