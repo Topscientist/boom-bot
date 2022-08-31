@@ -132,5 +132,3 @@ dmypy.json
 TOKEN.env
 discord.log
 devcontainer.json
-replit.nix
-.replit
