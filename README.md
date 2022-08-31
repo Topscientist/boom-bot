@@ -44,7 +44,7 @@ Courtesy of Drac in the Arty Studios Discord Server, I have been informed that t
 
 **I do not endorse or recommend you adding this bot to your own discord server. It will pose a safety and security risk to your server.**
 
-_**If you choose to add this bot to your own discord server, it is at your own risk and no-one including Topscientist/Artymartin3459#9245 can be held responsible for what happens to your discord server after adding it (Boom Bot) to your discord server.**_
+_**If you choose to add this bot to your own discord server, it is at your own risk and no-one can be held responsible for what happens to your discord server after adding it (Boom Bot) to your discord server.**_
 
 **If you want to see the bot in action please join the Arty Studios discord server or Boom event server (Coming Soon).**
 
