@@ -1,5 +1,8 @@
+# IMPORTANT: This Repository Has Been "Archived" As Is Currently Only Recieving Security Updates
+As this project is no longer a priority for me, I have set it aside for now but will continue to give it important security updates. This repository may be officially archived at a later date!
+
 # Boom Bot
-A test to see what happens if the open-source community is allowed to run rampant with a discord bot and it's code.
+A test to see what happens if the internet is allowed to run rampant with a discord bot and it's code.
 
 This will probably blow up (Go up in smoke) which is why it's called Boom Bot 
 
