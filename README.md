@@ -1,5 +1,5 @@
-# IMPORTANT: This Repository Has Been "Archived" As Is Currently Only Recieving Security Updates
-As this project is no longer a priority for me, I have set it aside for now but will continue to give it important security updates. This repository may be officially archived at a later date!
+# Update From Maintainer | Project Archived
+This project has been archived as it is no longer active and I am no longer able/willing to invest my time into it sufficently. I may re-activate it at a later date later this year as a social experiment though!
 
 # Boom Bot
 A test to see what happens if the internet is allowed to run rampant with a discord bot and it's code.
