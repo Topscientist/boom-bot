@@ -1,5 +1,5 @@
 # Update From Maintainer | Project Archived
-This project has been archived as it is no longer active and I am no longer able/willing to invest my time into it sufficently. I may re-activate it at a later date later this year as a social experiment though!
+This project has been archived as it is no longer active (The event ended ages ago) and I am no longer able/willing to invest my time into it sufficently. I may re-activate it at a later date later this year as another social experiment though!
 
 # Boom Bot
 A test to see what happens if the internet is allowed to run rampant with a discord bot and it's code.
@@ -54,4 +54,4 @@ _**If you choose to add this bot to your own discord server, it is at your own r
 ## Thank You
 Thank you for choosing to participate in this wild and crazy project. It is just a random idea to see how this bot will fair over the course of this one chosen month. I would like to thank the admins that have agreed to help out running this project.
 
-Let's make this bot go boom :}
+Let's make this bot go boom!
